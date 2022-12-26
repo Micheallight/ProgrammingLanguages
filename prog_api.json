@@ -1,31 +1,31 @@
 [
     {
         "id": 1,
-        "name": "Kotlin",
+        "title": "Kotlin",
         "date": "2011",
         "text": "Cross-platform, statically typed, general-purpose programming language with type inference. Kotlin is designed to interoperate fully with Java, and the JVM version of Kotlin's standard library depends on the Java Class Library, but type inference allows its syntax to be more concise."
     },
     {
         "id": 2,
-        "name": "Java",
+        "title": "Java",
         "date": "1995",
         "text": "High-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible. It is a general-purpose programming language intended to let programmers write once, run anywhere (WORA), meaning that compiled Java code can run on all platforms that support Java without the need to recompile."
     },
     {
         "id": 3,
-        "name": "C++",
+        "title": "C++",
         "date": "1985",
         "text": "High-level general-purpose programming language created by Danish computer scientist Bjarne Stroustrup as an extension of the C programming language."
     },
     {
         "id": 4,
-        "name": "Python",
+        "title": "Python",
         "date": "1991",
         "text": "High-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation."
     },
     {
         "id": 5,
-        "name": "PHP",
+        "title": "PHP",
         "date": "1995",
         "text": "General-purpose scripting language geared toward web development. It was originally created by Danish-Canadian programmer Rasmus Lerdorf in 1993 and released in 1995."
     }
